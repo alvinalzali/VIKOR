@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -19,21 +12,17 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Daftar Isi</summary>
   <ol>
     <li>
       <a href="#tentang-project">Tentang Project</a>
-      <ul>
-        <li><a href="#library">Library</a></li>
-      </ul>
     </li>
     <li>
       <a href="#aplikasi">Aplikasi</a>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#lisensi">Lisensi</a></li>
+    <li><a href="#roadmap">Pengertian</a></li>
+    <li><a href="#lisensi">Memulai</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -50,6 +39,11 @@ project ini dibuat berdasarkan code berbasis web dan dataset yang dibuat oleh Ca
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Pengertian
+
+VIKOR (Visekriterijumsko Kompromisno Rangiranje) adalah salah satu metode SPK yang digunakan untuk menentukan keputusan. Keputusan tersebut dibuat berdasarkan perhitungan matematis, penentuan variabel Max (positif) dan variabel Min (negatif). Pemilihan keputusan dipilih dari nilai Q terkecil dari Q data lainnya.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Aplikasi
 
 Aplikasi yang digunakan adalah RStudio dan R:
@@ -61,22 +55,22 @@ Link Download (Untuk Windows):
 
 
 <!-- Memulai -->
-## Memulai
+### Memulai
     1. Periksa directory yg digunakan, tutorial dapat dilihat disini :
     2. Install Library yang digunakan
     Cara install
     ```sh
-   install.packages('xlsx')
-   install.packages('dplyr')
-   install.packages('Hmisc')
-   ```
+    install.packages('xlsx')
+    install.packages('dplyr')
+    install.packages('Hmisc')
+    ```
    Bila terdapat error, bisa digoogle lalu lihat di stackoverflow
     3. Run Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## License
+### License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -85,7 +79,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+### Contact
 
 Your Name - [@alvin_alzali](https://www.instagram.com/alvin_alzali/) - alvinalzali40@gmail.com
 
