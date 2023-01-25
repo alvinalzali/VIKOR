@@ -1,6 +1,4 @@
-
 <a name="readme-top"></a>
-
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -18,8 +16,6 @@
     Code ini dibuat dengan menggunakan bahasa R
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -46,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project ini dibuat karena library MCDM yang memuat metode VIKOR untuk bahasa pemrograman R telah dihapus dari reporsitori CRAN. Sehingga untuk menggunakannya hanya dapat dilihat pada arsip CRAN [![disini]][https://cran.r-project.org/src/contrib/Archive/MCDM/]. Pada arsip tersebut, 
+Project ini dibuat karena library MCDM yang memuat metode VIKOR untuk bahasa pemrograman R telah dihapus dari reporsitori CRAN. Sehingga untuk menggunakannya hanya dapat dilihat pada arsip CRAN [![disini]](https://cran.r-project.org/src/contrib/Archive/MCDM/). Pada arsip tersebut, 
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
