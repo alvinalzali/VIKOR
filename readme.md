@@ -58,13 +58,14 @@ Link Download (Untuk Windows):
 ### Memulai
     1. Periksa directory yg digunakan, tutorial dapat dilihat disini :
     2. Install Library yang digunakan
-    Cara install
-    ```sh
+    Cara install :
+
     install.packages('xlsx')
     install.packages('dplyr')
     install.packages('Hmisc')
-    ```
+
     Bila terdapat error, bisa digoogle lalu lihat di stackoverflow
+
     3. Run Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,7 +73,7 @@ Link Download (Untuk Windows):
 <!-- LICENSE -->
 ### License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
