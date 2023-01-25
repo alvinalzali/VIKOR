@@ -64,7 +64,7 @@ Link Download (Untuk Windows):
     install.packages('dplyr')
     install.packages('Hmisc')
     ```
-   Bila terdapat error, bisa digoogle lalu lihat di stackoverflow
+    Bila terdapat error, bisa digoogle lalu lihat di stackoverflow
     3. Run Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
