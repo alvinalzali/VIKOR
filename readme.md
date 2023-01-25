@@ -42,7 +42,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project ini dibuat karena library MCDM yang memuat metode VIKOR untuk bahasa pemrograman R telah dihapus dari reporsitori CRAN. Sehingga untuk menggunakannya hanya dapat dilihat pada arsip CRAN [![disini]](https://cran.r-project.org/src/contrib/Archive/MCDM/). Pada arsip tersebut, 
+Project ini dibuat karena library MCDM yang memuat metode VIKOR untuk bahasa pemrograman R telah dihapus dari reporsitori CRAN. Sehingga untuk menggunakannya hanya dapat dilihat pada arsip CRAN [disini](https://cran.r-project.org/src/contrib/Archive/MCDM/). Pada arsip tersebut, fungsi metode vikor hanya berjalan untuk 1x proses dan sulit untuk mendapatkan hasil dengan format yang sesuai dengan keinginan.
+
+Oleh karena itu, codingan ini dibuat untuk mempermudah penggunaan metode VIKOR dengan menggunakan bahasa pemrograman R.
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
